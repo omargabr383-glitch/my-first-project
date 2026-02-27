@@ -1,6 +1,3 @@
-# my-first-project
-
-
 # My First Open Source Project
 
 This is my first public repository.
